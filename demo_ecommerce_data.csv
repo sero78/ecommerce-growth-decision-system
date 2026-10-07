@@ -1,0 +1,113 @@
+date,product,category,price,discount_pct,campaign,sessions,product_views,add_to_cart,checkout,orders,revenue,margin
+2026-09-23,Tailored Blazer,Outerwear,2790,8.0,Always On,221,189,20,11,6,15400.8,6206.19
+2026-09-23,Wide Leg Trousers,Bottoms,1590,12.0,Midweek Edit,543,459,37,23,19,26584.8,10708.2
+2026-09-23,Satin Shirt,Tops,1290,26.0,Weekend Offer,265,225,21,12,8,7636.8,2449.03
+2026-09-23,Knit Cardigan,Knitwear,1890,10.0,Always On,615,524,54,37,25,42525.0,16933.06
+2026-09-23,Midi Dress,Dresses,2390,15.0,Midweek Edit,211,178,14,9,6,12189.0,4645.89
+2026-09-23,Basic T-Shirt,Tops,790,13.0,Weekend Offer,636,527,57,42,31,21306.3,8168.36
+2026-09-23,Pleated Skirt,Bottoms,1490,20.0,Always On,605,453,36,25,25,29800.0,10184.3
+2026-09-23,Trench Coat,Outerwear,3290,10.0,Midweek Edit,354,279,31,21,16,47376.0,19444.6
+2026-09-24,Tailored Blazer,Outerwear,2790,8.0,Midweek Edit,560,437,38,26,18,46202.4,19323.5
+2026-09-24,Wide Leg Trousers,Bottoms,1590,20.0,Weekend Offer,592,426,47,32,22,27984.0,9386.63
+2026-09-24,Satin Shirt,Tops,1290,18.0,Always On,321,260,21,12,9,9520.2,3354.36
+2026-09-24,Knit Cardigan,Knitwear,1890,10.0,Midweek Edit,566,458,50,33,26,44226.0,18170.79
+2026-09-24,Midi Dress,Dresses,2390,23.0,Weekend Offer,230,166,15,8,7,12882.1,4271.54
+2026-09-24,Basic T-Shirt,Tops,790,5.0,Always On,458,346,26,20,20,15010.0,6513.2
+2026-09-24,Pleated Skirt,Bottoms,1490,20.0,Midweek Edit,398,336,35,22,15,17880.0,6339.67
+2026-09-24,Trench Coat,Outerwear,3290,18.0,Weekend Offer,509,368,29,21,21,56653.8,20727.91
+2026-09-25,Tailored Blazer,Outerwear,2790,16.0,Weekend Offer,551,410,43,27,17,39841.2,14781.69
+2026-09-25,Wide Leg Trousers,Bottoms,1590,12.0,Always On,272,223,20,11,9,12592.8,4795.0
+2026-09-25,Satin Shirt,Tops,1290,18.0,Midweek Edit,361,300,26,19,11,11635.8,4159.07
+2026-09-25,Knit Cardigan,Knitwear,1890,18.0,Weekend Offer,674,533,46,31,31,48043.8,17180.93
+2026-09-25,Midi Dress,Dresses,2390,15.0,Always On,255,196,19,11,6,12189.0,4425.09
+2026-09-25,Basic T-Shirt,Tops,790,5.0,Midweek Edit,420,350,33,22,20,15010.0,6732.25
+2026-09-25,Pleated Skirt,Bottoms,1490,28.0,Weekend Offer,239,187,14,9,8,8582.4,2697.89
+2026-09-25,Trench Coat,Outerwear,3290,10.0,Always On,517,380,38,23,23,68103.0,26950.69
+2026-09-26,Tailored Blazer,Outerwear,2790,8.0,Always On,696,566,43,31,19,48769.2,19792.7
+2026-09-26,Wide Leg Trousers,Bottoms,1590,12.0,Midweek Edit,489,358,34,22,18,25185.6,10027.5
+2026-09-26,Satin Shirt,Tops,1290,26.0,Weekend Offer,275,209,18,11,6,5727.6,1780.59
+2026-09-26,Knit Cardigan,Knitwear,1890,10.0,Always On,483,411,47,27,21,35721.0,14097.06
+2026-09-26,Midi Dress,Dresses,2390,15.0,Midweek Edit,354,270,28,19,10,20315.0,7695.38
+2026-09-26,Basic T-Shirt,Tops,790,13.0,Weekend Offer,249,215,18,12,12,8247.6,3144.38
+2026-09-26,Pleated Skirt,Bottoms,1490,20.0,Always On,470,399,35,25,17,20264.0,7170.41
+2026-09-26,Trench Coat,Outerwear,3290,10.0,Midweek Edit,382,290,33,19,16,47376.0,18971.73
+2026-09-27,Tailored Blazer,Outerwear,2790,8.0,Midweek Edit,343,295,32,23,9,23101.2,9582.69
+2026-09-27,Wide Leg Trousers,Bottoms,1590,20.0,Weekend Offer,411,316,34,23,15,19080.0,6889.08
+2026-09-27,Satin Shirt,Tops,1290,18.0,Always On,639,486,56,33,22,23271.6,8785.24
+2026-09-27,Knit Cardigan,Knitwear,1890,10.0,Midweek Edit,240,178,14,11,11,18711.0,7370.82
+2026-09-27,Midi Dress,Dresses,2390,23.0,Weekend Offer,333,291,28,16,11,20243.3,6819.48
+2026-09-27,Basic T-Shirt,Tops,790,5.0,Always On,348,257,27,18,18,13509.0,5836.06
+2026-09-27,Pleated Skirt,Bottoms,1490,20.0,Midweek Edit,659,495,55,38,23,27416.0,9231.96
+2026-09-27,Trench Coat,Outerwear,3290,18.0,Weekend Offer,542,400,46,28,23,62049.4,22196.51
+2026-09-28,Tailored Blazer,Outerwear,2790,16.0,Weekend Offer,253,220,19,13,8,18748.8,6932.58
+2026-09-28,Wide Leg Trousers,Bottoms,1590,12.0,Always On,428,351,27,15,15,20988.0,8317.17
+2026-09-28,Satin Shirt,Tops,1290,18.0,Midweek Edit,191,166,18,11,6,6346.8,2253.7
+2026-09-28,Knit Cardigan,Knitwear,1890,18.0,Weekend Offer,664,489,54,38,29,44944.2,15259.77
+2026-09-28,Midi Dress,Dresses,2390,15.0,Always On,353,303,30,18,10,20315.0,7490.78
+2026-09-28,Basic T-Shirt,Tops,790,5.0,Midweek Edit,449,385,36,21,21,15760.5,6613.51
+2026-09-28,Pleated Skirt,Bottoms,1490,28.0,Weekend Offer,677,498,38,30,30,32184.0,9958.23
+2026-09-28,Trench Coat,Outerwear,3290,10.0,Always On,555,427,34,27,27,79947.0,32726.12
+2026-09-29,Tailored Blazer,Outerwear,2790,8.0,Always On,255,188,14,8,8,20534.4,8589.99
+2026-09-29,Wide Leg Trousers,Bottoms,1590,12.0,Midweek Edit,316,257,27,16,10,13992.0,5562.07
+2026-09-29,Satin Shirt,Tops,1290,26.0,Weekend Offer,649,555,42,24,20,19092.0,6589.43
+2026-09-29,Knit Cardigan,Knitwear,1890,10.0,Always On,421,341,31,21,21,35721.0,14069.64
+2026-09-29,Midi Dress,Dresses,2390,15.0,Midweek Edit,225,195,15,10,7,14220.5,5432.86
+2026-09-29,Basic T-Shirt,Tops,790,13.0,Weekend Offer,577,489,53,35,25,17182.5,6625.2
+2026-09-29,Pleated Skirt,Bottoms,1490,20.0,Always On,532,426,48,30,20,23840.0,8287.53
+2026-09-29,Trench Coat,Outerwear,3290,10.0,Midweek Edit,245,186,15,10,10,29610.0,12089.17
+2026-09-30,Tailored Blazer,Outerwear,2790,8.0,Midweek Edit,450,350,31,19,10,25668.0,10407.63
+2026-09-30,Wide Leg Trousers,Bottoms,1590,20.0,Weekend Offer,280,244,28,18,8,10176.0,3681.41
+2026-09-30,Satin Shirt,Tops,1290,18.0,Always On,384,316,35,22,12,12693.6,4590.84
+2026-09-30,Knit Cardigan,Knitwear,1890,10.0,Midweek Edit,418,350,29,19,16,27216.0,10970.59
+2026-09-30,Midi Dress,Dresses,2390,23.0,Weekend Offer,609,509,40,29,18,33125.4,11025.14
+2026-09-30,Basic T-Shirt,Tops,790,5.0,Always On,454,385,39,27,18,13509.0,5748.22
+2026-09-30,Pleated Skirt,Bottoms,1490,20.0,Midweek Edit,599,487,38,25,21,25032.0,8597.91
+2026-09-30,Trench Coat,Outerwear,3290,18.0,Weekend Offer,606,491,47,30,26,70142.8,25372.08
+2026-10-01,Tailored Blazer,Outerwear,2790,16.0,Weekend Offer,574,468,54,30,19,44528.4,15860.31
+2026-10-01,Wide Leg Trousers,Bottoms,1590,12.0,Always On,521,429,40,28,19,26584.8,10690.75
+2026-10-01,Satin Shirt,Tops,1290,18.0,Midweek Edit,491,413,36,22,13,13751.4,4943.97
+2026-10-01,Knit Cardigan,Knitwear,1890,18.0,Weekend Offer,315,234,27,17,12,18597.6,6690.48
+2026-10-01,Midi Dress,Dresses,2390,15.0,Always On,225,195,21,13,5,10157.5,3835.62
+2026-10-01,Basic T-Shirt,Tops,790,5.0,Midweek Edit,490,409,48,27,23,17261.5,7867.39
+2026-10-01,Pleated Skirt,Bottoms,1490,28.0,Weekend Offer,556,452,47,25,16,17164.8,5477.21
+2026-10-01,Trench Coat,Outerwear,3290,10.0,Always On,449,344,32,20,16,47376.0,19395.56
+2026-10-02,Tailored Blazer,Outerwear,2790,8.0,Always On,388,286,34,24,11,28234.8,11612.47
+2026-10-02,Wide Leg Trousers,Bottoms,1590,12.0,Midweek Edit,563,414,49,33,19,26584.8,10511.16
+2026-10-02,Satin Shirt,Tops,1290,26.0,Weekend Offer,435,315,27,15,12,11455.2,3653.84
+2026-10-02,Knit Cardigan,Knitwear,1890,10.0,Always On,204,176,18,10,8,13608.0,5495.24
+2026-10-02,Midi Dress,Dresses,2390,15.0,Midweek Edit,233,197,16,11,5,10157.5,3765.56
+2026-10-02,Basic T-Shirt,Tops,790,13.0,Weekend Offer,188,163,17,11,8,5498.4,2209.13
+2026-10-02,Pleated Skirt,Bottoms,1490,20.0,Always On,358,264,25,17,12,14304.0,5019.58
+2026-10-02,Trench Coat,Outerwear,3290,10.0,Midweek Edit,182,135,14,8,6,17766.0,7131.62
+2026-10-03,Tailored Blazer,Outerwear,2790,8.0,Midweek Edit,208,170,13,8,7,17967.6,7559.81
+2026-10-03,Wide Leg Trousers,Bottoms,1590,20.0,Weekend Offer,473,394,32,18,15,19080.0,6576.13
+2026-10-03,Satin Shirt,Tops,1290,18.0,Always On,328,277,28,18,8,8462.4,3085.55
+2026-10-03,Knit Cardigan,Knitwear,1890,10.0,Midweek Edit,590,453,45,31,26,44226.0,17764.93
+2026-10-03,Midi Dress,Dresses,2390,23.0,Weekend Offer,358,286,26,16,10,18403.0,6519.63
+2026-10-03,Basic T-Shirt,Tops,790,5.0,Always On,574,438,38,25,25,18762.5,8177.27
+2026-10-03,Pleated Skirt,Bottoms,1490,20.0,Midweek Edit,339,266,22,14,12,14304.0,4846.57
+2026-10-03,Trench Coat,Outerwear,3290,18.0,Weekend Offer,441,347,33,19,17,45862.6,16115.16
+2026-10-04,Tailored Blazer,Outerwear,2790,16.0,Weekend Offer,324,266,27,16,8,18748.8,6910.95
+2026-10-04,Wide Leg Trousers,Bottoms,1590,12.0,Always On,419,330,34,21,14,19588.8,7761.69
+2026-10-04,Satin Shirt,Tops,1290,18.0,Midweek Edit,527,457,44,28,14,14809.2,5230.69
+2026-10-04,Knit Cardigan,Knitwear,1890,18.0,Weekend Offer,496,423,41,23,20,30996.0,11395.86
+2026-10-04,Midi Dress,Dresses,2390,15.0,Always On,554,423,38,22,16,32504.0,12574.35
+2026-10-04,Basic T-Shirt,Tops,790,5.0,Midweek Edit,542,391,43,31,21,15760.5,7031.37
+2026-10-04,Pleated Skirt,Bottoms,1490,28.0,Weekend Offer,484,357,32,23,16,17164.8,5667.89
+2026-10-04,Trench Coat,Outerwear,3290,10.0,Always On,237,182,19,13,9,26649.0,10713.61
+2026-10-05,Tailored Blazer,Outerwear,2790,8.0,Always On,601,452,44,25,16,41068.8,16801.91
+2026-10-05,Wide Leg Trousers,Bottoms,1590,12.0,Midweek Edit,470,412,41,29,16,22387.2,9119.6
+2026-10-05,Satin Shirt,Tops,1290,26.0,Weekend Offer,474,371,29,20,15,14319.0,4576.1
+2026-10-05,Knit Cardigan,Knitwear,1890,10.0,Always On,240,178,14,10,10,17010.0,6965.99
+2026-10-05,Midi Dress,Dresses,2390,15.0,Midweek Edit,466,372,37,24,14,28441.0,10512.77
+2026-10-05,Basic T-Shirt,Tops,790,13.0,Weekend Offer,282,241,24,16,11,7560.3,2918.02
+2026-10-05,Pleated Skirt,Bottoms,1490,20.0,Always On,540,420,41,25,20,23840.0,8435.79
+2026-10-05,Trench Coat,Outerwear,3290,10.0,Midweek Edit,525,442,50,32,22,65142.0,26182.47
+2026-10-06,Tailored Blazer,Outerwear,2790,8.0,Midweek Edit,328,254,24,15,8,20534.4,8359.8
+2026-10-06,Wide Leg Trousers,Bottoms,1590,20.0,Weekend Offer,462,400,41,24,14,17808.0,6393.1
+2026-10-06,Satin Shirt,Tops,1290,18.0,Always On,333,289,27,16,8,8462.4,2932.38
+2026-10-06,Knit Cardigan,Knitwear,1890,10.0,Midweek Edit,274,209,22,14,11,18711.0,7305.74
+2026-10-06,Midi Dress,Dresses,2390,23.0,Weekend Offer,566,476,55,38,18,33125.4,10664.28
+2026-10-06,Basic T-Shirt,Tops,790,5.0,Always On,479,411,32,22,20,15010.0,6315.22
+2026-10-06,Pleated Skirt,Bottoms,1490,20.0,Midweek Edit,493,431,51,30,18,21456.0,7900.38
+2026-10-06,Trench Coat,Outerwear,3290,18.0,Weekend Offer,446,324,35,22,15,40467.0,14937.42
